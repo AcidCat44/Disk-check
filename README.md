@@ -1,2 +1,3 @@
 # Disk-check
-A .bat file that checks the disk (windows only)
+A Command Prompt that Uses CHKDSK Automaticly!
+Made by Acidcat44
